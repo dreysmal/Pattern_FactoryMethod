@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Factory_method\Abstract_method\bin\Debug\Abstract_method.exe.config
+C:\Users\User\source\repos\Factory_method\Abstract_method\bin\Debug\Abstract_method.exe
+C:\Users\User\source\repos\Factory_method\Abstract_method\bin\Debug\Abstract_method.pdb
+C:\Users\User\source\repos\Factory_method\Abstract_method\obj\Debug\Abstract_method.Form1.resources
+C:\Users\User\source\repos\Factory_method\Abstract_method\obj\Debug\Abstract_method.Properties.Resources.resources
+C:\Users\User\source\repos\Factory_method\Abstract_method\obj\Debug\Factory_method.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\Factory_method\Abstract_method\obj\Debug\Factory_method.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Factory_method\Abstract_method\obj\Debug\Abstract_method.exe
+C:\Users\User\source\repos\Factory_method\Abstract_method\obj\Debug\Abstract_method.pdb
+C:\Users\User\source\repos\Factory_method\Abstract_method\bin\Debug\Tetris_Figure.dll
+C:\Users\User\source\repos\Factory_method\Abstract_method\bin\Debug\Tetris_Figure.pdb

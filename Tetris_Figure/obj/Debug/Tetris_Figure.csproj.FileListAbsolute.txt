@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Factory_method\Tetris_Figure\bin\Debug\Tetris_Figure.dll
+C:\Users\User\source\repos\Factory_method\Tetris_Figure\bin\Debug\Tetris_Figure.pdb
+C:\Users\User\source\repos\Factory_method\Tetris_Figure\obj\Debug\Tetris_Figure.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Factory_method\Tetris_Figure\obj\Debug\Tetris_Figure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Factory_method\Tetris_Figure\obj\Debug\Tetris_Figure.dll
+C:\Users\User\source\repos\Factory_method\Tetris_Figure\obj\Debug\Tetris_Figure.pdb
